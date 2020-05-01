@@ -1,4 +1,4 @@
-# may-leetcoding-challenge
+# May Leetcoding challenge
 
 https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/
 
