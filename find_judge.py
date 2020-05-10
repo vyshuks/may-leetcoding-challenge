@@ -17,6 +17,8 @@ the town judge.  Otherwise, return -1.
 
 
 def find_judge(n, trust):
+    if n == 1 and not trust:
+        return 1
     non_judge = {}
     judge = {}
 
